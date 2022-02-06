@@ -1,5 +1,7 @@
 # About Me
 
+![That's right, I got the image to work! Only the cheesiest grin for a well-earned success!](C:\Users\foxgo\Documents\School Work\LIS 768 - Digital Humanities Analytics\Gitbash Projects\DH Projects\new bio.jpg "Gemini Fox")
+
 My name is Gemini Fox, and I'm very new to data science, as well as programming. The only experience I have is back from highschool ten years ago, and running a small Minecraft server for friends. However, I'm keen on learning more, especially how to work more closely with some corpus tools. I thought Voyant was an exceptionally cool program, which I think could be super useful in my line of work as a language instructor. I'm also interested in trying my hand at RegEx.
 
 ## Interests
@@ -13,8 +15,10 @@ Honestly, everything. I'm definitely green when it comes to programming of any k
 ## Tools/methods as a list with some funky formatting
 >**Python**
 >>*Seems like a good idea for me to get a good grasp of the basics*
+>
 >**RegEx**
 >>*I recognize this name, but would love to see how it's actually used*
+>
 >**Voyant Tools**
 >>*Being a German corpus man, I'd love to get my hands dirty with this software*
 
@@ -22,3 +26,4 @@ Honestly, everything. I'm definitely green when it comes to programming of any k
 1. Python
 2. RegEx
 3. Voyant Tools
+4. Perhaps even TEI

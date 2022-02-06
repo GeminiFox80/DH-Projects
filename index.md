@@ -1,1 +1,1 @@
-#Hello, world!
+#Hello, GitHub! If you can read this, then sweet, the push worked properly! If not... Whoops!

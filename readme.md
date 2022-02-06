@@ -1,6 +1,6 @@
 # About Me
 
-![That's right, I got the image to work! Only the cheesiest grin for a well-earned success!](C:\Users\foxgo\Documents\School Work\LIS 768 - Digital Humanities Analytics\Gitbash Projects\DH Projects\new bio.jpg "Gemini Fox")
+![Gemini Fox](/DH-Projects/new-bio.jpg "That's right, I got the image to work! Only the cheesiest grin for a well-earned success!")
 
 My name is Gemini Fox, and I'm very new to data science, as well as programming. The only experience I have is back from highschool ten years ago, and running a small Minecraft server for friends. However, I'm keen on learning more, especially how to work more closely with some corpus tools. I thought Voyant was an exceptionally cool program, which I think could be super useful in my line of work as a language instructor. I'm also interested in trying my hand at RegEx.
 
